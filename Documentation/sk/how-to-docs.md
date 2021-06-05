@@ -1,0 +1,3 @@
+# Ako písať dokumentáciu
+
+TODO!!

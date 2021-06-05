@@ -16,4 +16,4 @@ Documentation in English and Slovak can be found in the directory Documentation:
 
 ## Contributing
 
-~ TODO!
+See the guide to contributing in [EN](Documentation/en/contributing.md), [SK](Documentation/sk/contributing.md).
