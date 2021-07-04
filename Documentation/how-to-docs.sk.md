@@ -12,5 +12,3 @@ Dokumentácia je písaná vo formáte **Markdown** a nasleduje štruktúru proje
 Dokumentácia je rozdelená na jednotlivé súbory (stránky), ktoré tvoria tematicky samostatné jednotky (napr. tento návod na písanie dokumentácie je v inom súbore ako [popis štruktúry](structure.md) projektu).
 
 Súbory sú prepojené odkazmi. Externé odkazy obsahujú celú cestu, tie interné používajú **relatívne** cesty, vďaka čomu je možné jednoduchšie odkazovať napr. na správnu jazykovú verziu dokumentácie komponentu (dopomáhajú tomu symbolické odkazy, pozri napr. `./Backend`).
-
-## Building docs [TODO!]

@@ -13,7 +13,7 @@ The project is made of three inter-dependent parts:
 * The [Frontend](https://github.com/GJAR-IoT/GJAR-IoT-Frontend)  
   Our interactive web interface that allows viewing the data in graphs, and selecting exports to CSV.
 
-Documentation in English and Slovak can be found in the directory Documentation: [EN](/Documentation/en/README.md), [SK](/Documentation/sk/README.md)
+Documentation in English and Slovak can be found in the directory Documentation: [EN](Documentation/en/README.md), [SK](Documentation/sk/README.md)
 
 ## Contributing
 
