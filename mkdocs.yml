@@ -1,0 +1,31 @@
+site_name: GJAR IoT Docs
+site_url: https://iot.gjar-po.sk/docs
+site_dir: docs-site/
+docs_dir: Documentation/
+
+theme: readthedocs
+
+plugins:
+  - i18n:
+      languages:
+        en: "English"
+        sk: "Slovenčina"
+      default_language: "sk"
+      no_translation:
+        en: "This page is not translated to English"
+        sk: "Táto stránka nie je preložená do slovenčiny"
+
+nav:
+  - Úvod: index.md
+  - Introduction: index.en.md
+  - structure.sk.md
+  - structure.en.md
+  - contributing.sk.md
+  - contributing.en.md
+  - how-to-docs.sk.md
+  - how-to-docs.en.md
+  - Backend:
+      - Backend/export.sk.md
+      - Backend/export.en.md
+      - Backend/api-v2.sk.md
+      # - Backend/api-v2.en.md

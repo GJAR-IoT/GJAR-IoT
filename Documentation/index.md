@@ -1,0 +1,2 @@
+# Dokumentácia projektu GJAR IoT
+
